@@ -18,7 +18,8 @@
     "hubot": "2.3.2",
     "hubot-scripts": ">= 2.1.0",
     "optparse": "1.0.3",
-    "hubot-hipchat": "2.5.1-4"
+    "hubot-hipchat": "2.5.1-4",
+    "node-expat": "1.6.1"
   },
   "engines": {
     "node": "0.6.x",
