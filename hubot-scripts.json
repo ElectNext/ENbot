@@ -1,1 +1,12 @@
-["tweet.coffee", "shipit.coffee", "imdb.coffee"]
+[
+  "tweet.coffee", 
+  "shipit.coffee", 
+  "imdb.coffee", 
+  "isup.coffee", 
+  "jokels.coffee", 
+  "quakes.coffee",
+  "shakeshack.coffee",
+  "sosearch.coffee",
+  "stranger.coffee",
+  "thanks-obama.coffee"
+]
