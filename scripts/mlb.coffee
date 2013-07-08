@@ -13,6 +13,6 @@ module.exports = (robot) ->
         msg.send JSON.parse(body).human_talk
   
   robot.respond /are the phillies playing today|phillies/i, (msg) ->
-    msg.http("http://young-oasis-5058.herokuapp.com/score/phl")
+    msg.http("http://young-oasis-5058.herokuapp.com/score/phi")
       .get() (err, res, body) ->
         msg.send JSON.parse(body).human_talk
